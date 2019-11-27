@@ -1,0 +1,22 @@
+table{
+    background-color: white;
+    width: 100%;
+}
+input{
+    border: 0;
+    width: 100%;
+}
+h1{
+    text-align:center; /*?置水平居中*/
+}
+th{
+    text-align:center; /*?置水平居中*/
+}
+
+.stringLeftAlign{
+    text-align: left;
+}
+
+.numberRightAlign, .numberRightAlign input{
+    text-align: right;
+}
